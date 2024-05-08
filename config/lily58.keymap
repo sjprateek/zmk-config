@@ -100,7 +100,7 @@
             bindings = <
 &kp GRAVE       &kp TILDE  &trans        &cmdShift3    &cmdShift4     &cmdShift5                                        &trans    &trans        &trans        &trans         &kp MINUS                &kp EQUAL
 &kp LG(TAB)     &trans     &kp LA(LEFT)  &kp UP_ARROW  &kp LA(RIGHT)  &trans                                            &trans    &kp LA(LEFT)  &kp UP_ARROW  &kp LA(RIGHT)  &ctrlCloseSquareBracket  &kp NON_US_BACKSLASH
-&kp CAPSLOCK    &trans     &kp LEFT      &kp DOWN      &kp RIGHT      &trans                                            &trans    &kp LEFT      &kp DOWN      &kp RIGHT      &trans                   &kp ENTER
+&kp CAPSLOCK    &trans     &kp LEFT      &kp DOWN      &kp RIGHT      &trans                                            &trans    &kp LEFT      &kp DOWN      &kp RIGHT      &trans                   &kp SQT
 &kp LEFT_SHIFT  &trans     &trans        &trans        &trans         &trans      &kp C_VOLUME_DOWN    &kp C_VOLUME_UP  &trans    &trans        &trans        &trans         &trans                   &trans
                                          &trans        &trans         &trans      &trans               &trans           &kp DOWN  &kp MINUS     &kp EQUAL
             >;
